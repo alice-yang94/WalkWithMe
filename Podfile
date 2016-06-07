@@ -3,6 +3,6 @@
 
 source 'https://github.com/CocoaPods/Specs.git'
 
-target 'WalkWithMe' do
+target ‘WalkWithMe' do
   pod 'GoogleMaps'
 end
